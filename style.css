@@ -4,16 +4,16 @@
             color:red;
         }  
         
-        body {
+        body { 
+        background-image: url('https://www.w3docs.com/uploads/media/default/0001/01/477719675fecaac0362957c214fb9aa56fca99b5.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+      
             background-color: rgb(97, 250, 255);
         }
             
 #nav-table {width: 1000px; }
 #nav-th {width: 266px; text-align:center;}
 
- body {
-        background-image: url("mybackground.jpg");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-      }
+
